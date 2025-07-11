@@ -1,6 +1,5 @@
 # AutoCAD-Practice
 A collection of my self-learned AutoCAD practice drawings.
-# AutoCAD Practice Portfolio
 
 This repository showcases my journey of self-learning AutoCAD through hands-on practice. Each drawing demonstrates specific tools and techniques I’ve practiced. It includes drawing exercises and command usage for 2D drafting essentials.
 ## 🎯 Objective
