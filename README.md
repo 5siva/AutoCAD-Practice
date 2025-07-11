@@ -9,7 +9,7 @@ This repository showcases my journey of self-learning AutoCAD. Each drawing demo
 ## 📘 Drawing 01 – [Autocad Practice_1]
 - 📅 Date: July 10, 2025
 - 📂 Files: [`practice1.dwg`](./practice1.dwg), [`practice1.pdf`](./practice1.pdf), Screenshot
-- 🛠️ Tools used: Line, Trim, Circle, Extend
+- 🛠️ Tools used: Line, Trim, Circle, Extend, and used Polar Method 
 - 📝 Description: This is my first 2D drawing created using AutoCAD to practice basic drafting skills. I focused on precision using ortho mode and dimensioning.
 
 ---
