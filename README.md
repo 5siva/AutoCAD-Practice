@@ -22,7 +22,7 @@ This repository showcases my journey in learning AutoCAD through hands-on practi
 
 ---
 
-## 📌 Practice 01: Polar Method
+## 📌 Polar Method
 
 **Focus:** Drawing lines using polar coordinates  
 **Formula:** `@length<angle`  
@@ -34,7 +34,7 @@ This repository showcases my journey in learning AutoCAD through hands-on practi
 
 ---
 
-## 📌 Practice 02: Circle Commands
+## 📌  Circle Commands
 
 **Focus:** Drawing circles using different methods  
 **Commands Used:**  
@@ -45,7 +45,7 @@ This repository showcases my journey in learning AutoCAD through hands-on practi
 
 ---
 
-## 📌 Practice 03: Trim & Extend
+## 📌  Trim & Extend
 
 **Focus:** Modifying geometries  
 - `TR` (Trim): Removes intersecting segments  
@@ -63,15 +63,6 @@ This repository showcases my journey in learning AutoCAD through hands-on practi
 | `TR`    | Trim lines                   |
 | `EX`    | Extend lines                 |
 | `Close` | Close polyline               |
-
----
-
-## 📁 Included Files
-
-- `drawing1.dwg` / `drawing1.pdf` – Polar method
-- `circle_demo.dwg` – Circle exercises
-- `trim_extend_demo.dwg` – Trim & Extend
-- Screenshots for visual proof
 
 ---
 
