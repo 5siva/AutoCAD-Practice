@@ -16,4 +16,68 @@ This repository showcases my journey of self-learning AutoCAD. Each drawing demo
 
 More drawings will be added as I progress.
 
+# 🛠️ AutoCAD Practice – Self Learning Portfolio
+
+This repository showcases my journey in learning AutoCAD through hands-on practice. It includes drawing exercises and command usage for 2D drafting essentials.
+
+---
+
+## 📌 Practice 01: Polar Method
+
+**Focus:** Drawing lines using polar coordinates  
+**Formula:** `@length<angle`  
+**Quadrants:**  
+- 1st: 0°–90° (`@10<45`)  
+- 2nd: 90°–180° (`@10<135`)  
+- 3rd: 180°–270° (`@10<225`)  
+- 4th: 270°–360° (`@10<315`)
+
+---
+
+## 📌 Practice 02: Circle Commands
+
+**Focus:** Drawing circles using different methods  
+**Commands Used:**  
+- `C` – Center & Radius / Diameter  
+- 2-Point, 3-Point  
+- Tangent-Tangent-Radius  
+- Tangent-Tangent-Tangent  
+
+---
+
+## 📌 Practice 03: Trim & Extend
+
+**Focus:** Modifying geometries  
+- `TR` (Trim): Removes intersecting segments  
+- `EX` (Extend): Stretches lines to meet boundaries  
+
+---
+
+## 🧰 Command Summary
+
+| Command | Function                     |
+|---------|------------------------------|
+| `@`     | Relative coordinate input    |
+| `<`     | Specify angle (polar input)  |
+| `C`     | Draw circle                  |
+| `TR`    | Trim lines                   |
+| `EX`    | Extend lines                 |
+| `Close` | Close polyline               |
+
+---
+
+## 📁 Included Files
+
+- `drawing1.dwg` / `drawing1.pdf` – Polar method
+- `circle_demo.dwg` – Circle exercises
+- `trim_extend_demo.dwg` – Trim & Extend
+- Screenshots for visual proof
+
+---
+
+## 🎯 Objective
+
+To document my AutoCAD self-learning progress and demonstrate key drafting skills through real practice examples.
+
+
 
