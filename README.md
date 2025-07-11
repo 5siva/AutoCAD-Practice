@@ -6,7 +6,7 @@ This repository showcases my journey of self-learning AutoCAD. Each drawing demo
 
 ---
 
-## 📘 Drawing 01 – [Drawing Title or Type]
+## 📘 Drawing 01 – [Autocad Practice_1]
 - 📅 Date: July 10, 2025
 - 📂 Files: [DWG](./https://github.com/5siva/AutoCAD-Practice/blob/main/Practice%201.dwg), [PDF](./https://github.com/5siva/AutoCAD-Practice/blob/main/Practice%201.pdf), Screenshot
 - 🛠️ Tools used: Line, Trim, Circle, Hatch
